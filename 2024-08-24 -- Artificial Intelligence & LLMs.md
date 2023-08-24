@@ -4,8 +4,7 @@
 - Preview of [FreeMoCap](https://freemocap.org)
 
 ___
-### Test Slide 2
-- content 
-- content
-- content
+### Alan Turing
+- The Turing Machine
+- The Turing Test
 
