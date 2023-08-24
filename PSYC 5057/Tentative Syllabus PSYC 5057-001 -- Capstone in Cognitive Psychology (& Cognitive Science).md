@@ -8,11 +8,13 @@ email: wirthtd@ucmail.uc.edu
 
 Graduate TA: Tarcísio S. Moreira 
 email: santosto@mail.uc.edu
+
 ## Availability & Contact Information
 
 I (Trent) am available for in-person office hours on an as-needed basis, email me and we can set up a time. I will have open office hours at a regular interval during the week, day and time TBD. For scheduling in person meetings, or for quick questions by email, please email me and put "PSYC 5057" in the subject line. Myself or the Graduate Teaching Assistant will get back to you within a day or two. 
 
 I am happy to meet virtually as well, either by phone, UC meeting tools, FaceTime, or Zoom.
+
 ## Class Meeting Information
 
 We will meet in person in **Baldwin 750** on **Tuesdays** and **Thursdays** from **2:00 p.m. to 3:20 p.m.**
@@ -20,6 +22,7 @@ We will meet in person in **Baldwin 750** on **Tuesdays** and **Thursdays** from
 ## Required Texts
 
 All required reading materials, lecture notes, podcasts, and related materials will be distributed via CANVAS PDFs, MP3s, or links to outside contacts, such as YouTube, etc.
+
 ## Course Overview 
 
 This course surveys the disciplines of cognitive psychology **and cognitive science**. It includes topics relating to its historical roots and statistical practices, information processing theory, distributed and embodied cognition, as well as cognitive dynamics, artificial intelligence, and animal cognition. Each class member’s knowledge of, and competency in evaluating these topics will be demonstrated and assessed in assignments and related assignments designed to evaluate the relationships between research outcomes to theoretical principles.
@@ -32,6 +35,7 @@ This course surveys the disciplines of cognitive psychology **and cognitive scie
 4. Students will design and plan research projects, including assembling relevant materials, assembling or retrieving data, analyzing the results, and writing APA-style research reports.
 5. Students will be able to communicate research results to a wider audience.
 6. Students will gain experience using Large Language Models (LLM's) to synthesize, critique, and improve writing.
+
 ## Course Structure
 
 For assessment, this course emphasizes three related skills: (1) Evaluations and synthesis of assigned readings. (2) Hands-on research assignments, including hypothesis generation, project planning, data analysis, and perhaps data collection. (3) An APA-style report. 
