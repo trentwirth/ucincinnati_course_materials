@@ -7,3 +7,14 @@ In today's experiment, you will be solving a maze using your keyboard, from a fi
 3. No Information: In this condition, you will be put directly into the maze without any added information.
 
 Once you solve the maze, your information will be recorded! By consenting to this experiment, you agree to participate in a classroom experiment at the University of Cincinnati. Any data from this experiment will be anonymous, but may be shared in and outside of the University. 
+
+___
+Thank you for taking the time to participate in the University of Cincinnati's Cognition Capstone (PSYC 5057)'s experiment! 
+
+The data collected in this study will be used by students in the class to better understand the scientific method and to answer questions about how information provided prior to entering a maze might help people navigate it. 
+
+In today's experiment, you will be solving a maze using your keyboard, from a first person game-like perspective. Try and solve the maze as quickly as you can!
+
+Once you solve the maze, your information will be recorded.
+
+By consenting to this experiment, you agree to participate in a classroom experiment at the University of Cincinnati. Any data from this experiment will be anonymous, but may be shared in and outside of the University. 
