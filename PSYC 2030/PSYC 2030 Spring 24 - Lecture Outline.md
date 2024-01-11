@@ -15,6 +15,7 @@
 
 **Lecture 3: Visual impairments**
 
+- [Visual Disability Tedtalk](https://www.youtube.com/watch?v=1GPg5KpHY6s)
 - Types of visual deficits (blindness, low vision, color blindness) 
 - Causes of visual impairment like cataracts, glaucoma, macular degeneration
 - Simulations of visual impairments using goggles/lenses

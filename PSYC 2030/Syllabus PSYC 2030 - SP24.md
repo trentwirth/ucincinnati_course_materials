@@ -1,5 +1,5 @@
 
-# Tentative Syllabus for PSYC 5057-001, Capstone in Cognitive Psychology & Cognitive Science
+# Tentative Syllabus for PSYC 2030, Sensation & Perception
 
 ## Instructors
 
@@ -7,73 +7,64 @@ Trenton Wirth
 office: Clifton Court Hall 3233
 email: wirthtd@ucmail.uc.edu
 
-Graduate TA: Dalton Cooper
-email: cooped3@mail.uc.edu
+TA: Avery Kissler
+email: kissleaa@mail.uc.edu
 
 ## Availability & Contact Information
 
-I (Trent) am available for in-person office hours on an as-needed basis, email me and we can set up a time. I will have open office hours at a regular interval during the week, day and time TBD. For scheduling in person meetings, or for quick questions by email, please email me and put "PSYC 5057" in the subject line. Myself or the Graduate Teaching Assistant will get back to you within a day or two. 
+I (Trent) am available for in-person office hours on an as-needed basis, email me and we can set up a time. For scheduling in person meetings, or for quick questions by email, please email me and put "PSYC 2030" in the subject line. Myself or the Teaching Assistant (Avery!) will get back to you within a day or two. 
 
-I am happy to meet virtually as well, either by phone, UC meeting tools, FaceTime, or Zoom.
+I am happy to meet virtually as well!
 
 ## Class Meeting Information
 
-We will meet in person in **Baldwin 750** on **Tuesdays** and **Thursdays** from **2:00 p.m. to 3:20 p.m.**
+We will meet in person in **Clifton Court Hall 1210** on **Tuesdays** and **Thursdays** from **2:00 p.m. to 3:20 p.m.**
 
 ## Required Texts
 
-All required reading materials, lecture notes, podcasts, and related materials will be distributed via CANVAS PDFs, MP3s, or links to outside contacts, such as YouTube, etc.
+*You do not need to purchase a textbook for this course.* All reading materials, lecture notes, podcasts, and related materials will be distributed via CANVAS PDFs, MP3s, or links to outside contacts, such as YouTube, etc.
+
+## Prerequisites
+
+Enrollment in this course presumes the student has a passing grade in PSYC 1001: Introduction to Psychology (or equivalent)
 
 ## Course Overview 
 
-This course surveys the disciplines of *Cognitive Science*, including Cognitive Psychology, Philosophy, and Artificial Intelligence. It includes topics relating to its historical roots and statistical practices, information processing theory and *artificial intelligence* (from here on out, I'll refer to this as "**AI**"). 
-
-The course brings particular focus to the use and integration of AI in our work and daily lives; undoubtedly, the advent of Large Language Model (LLM) chat bots, that can answer questions we might type into Google *directly*, and often times correctly, is going to change the way we as humans access and implement information.
-
-Each class member’s knowledge of the topics covered in this course will be demonstrated and assessed in assignments including but not limited to: worksheets, quizzes, writing, peer review, general participation, and a final paper. 
-
-The components of the final paper will be drafted in the class throughout the semester (e.g.; Intro, Methods, Results, & Discussion). At the end of the semester, students will revise and combine the pieces of the research paper in APA format. There is no final exam.
-
 ### Learning Objectives
 
-1. Students will gain experience in reviewing/critiquing research and applying major theories and methodologies in the fields of Cognitive Psychology and Cognitive Science.
-2. Students will be introduced to notable methodological challenges of conducting research and learn strategies for confronting those challenges. 
-3. Students will review scientific literature to develop research questions and/or hypotheses.
-4. Students will carry out a research project, including data collection, analyzing the results, and writing APA-style research reports.
-5. Students will be able to communicate research results to a wider audience.
-6. Students will gain experience using Large Language Models (LLM's) to synthesize, critique, and improve writing.
-
-## Course Structure
-
-This class is structured into two parts. In the first part of the class, we'll be diving into theoretical topics of Cognitive Science (including Cognitive Psychology), and participating in Large Language Models "Labs" (I'll refer to this as [LLM](https://www.youtube.com/watch?v=zKndCikg3R0) Labs) to grow our expertise using LLMs. 
-
-The first part of the course will include 3 different class types:
-1. Seminar: Students will read papers, come to class and discuss the papers. The conversation will be moderated by the instructor(s).
-2. LLM Lab: Students will be given a task to complete in cooperation with a large language model, with direction from the instructor. A worksheet will be filled out through class, and submitted at the end.
-3. Experiential Learning: Students will participate in experiential mini-psychology-experimental exercises. This is meant to turn theory into practice, without the rigorous effort of conducting research.
-
-In the second part of the course, we will conduct an experiment using a gamified online research study investigating research questions in Spatial Cognition (using maps and wayfinding), with the eventual goal of writing an APA style paper on the conducted research.
-
-To support you in this work, we will have a sequence of in-class writing workshops all centered around Spatial Cognition experiment. The writing workshops will prepare you to submit an APA style paper by the end of the semester. This will involve in-class exercises guided by the instructor(s). The writing workshops will cover APA formatting, introductions, methods, results/statistics, discussions, and literature review.
+1. Demonstrate knowledge of the human sensory machinery and its role in the processes of  
+perception  
+2. Describe psychological theories, principles, and concepts relevant to perception   
+3. Assess and critically analyze theories, research methods and findings related to  
+perceptual psychology  
+4. Explain the philosophical and meta-theoretical assumptions that lie behind the differing  
+approaches and perspectives in perceptual psychology.
+5. Build empathy for those who experience the world differently than you.
 ## Grades
 
-The plus minus system will be used for all final grades. While absolute rubric scores will influence your final grade, the final letter grade for the course will reflect each individuals participation in the course, as well as their individual growth, engagement, and achievement relative to the learning objectives. 
+The plus minus system will be used for all final grades. The instructor reserves the right to amend the syllabus, weekly due dates, assignments, and planned activities. Notice of such announcements will be provided on canvas as far in advance as possible.
 
-If in my judgment, a reasonable need arises, I reserve the right to adjust the grade for portions, and any other aspect of the syllabus or course. 
+Your grade will be made up of work in three categories:
 
+**Attendance: 25%**
+**Tests: 40%**
+**Reading Responses: 30%**
+
+A detailed explanation of each of these categories is written below:
+
+1. **Attendance.** Attendance for this is graded. For all class sessions (except for test days), a participatory quiz will be used to account for who is in class on any given day. Attendance each day will be worth 5 points, and quizzes will be password protected - meaning that you must be in class to receive the password. If you share a password with a student who is absent, or you try and use a password without attending class, you will be turned in for [Academic Misconduct](https://www.uc.edu/campus-life/conduct/academic-integrity.html). 
+	- If you are sick, please let me know as soon as possible and I will provide you the opportunity to complete the participatory quiz so you do not miss points due to illness.
+	- The same goes for a family, health, or miscellaneous emergency. If you're communicative with me, I will provide you the opportunity to get the attendance points.
+2. **Tests.** You will have three tests during the semester that will take place during class time. The tests will not be cumulative. 
+	- Each test will have 25 multiple choice questions, as well as two extended responses.
+3. **Reading Responses**. You will be given a variety of "reading" responses the semester; while it is listed as reading, the content I have you engage with might not always be written. You may be asked to watch a Ted Talk, read an article, dive into a Wiki page, or learn about Sensation and Perception by some other means. "Reading responses" are a way to assess your ability to identify and retain knowledge from the content that makes up our course.
 ### Late Policy
 
-Late assignments are subject to a 5% penalty for each calendar day off to a 10% maximum deduction. For medical or family emergencies, late penalties may be avoided or waved. 
+Late homework assignments are generally not accepted. If there is an health or family emergency that prevents you from submitting an assignment on time, please let me know as soon as possible.
 
 ### Academic Integrity
 
-All assignments are expected to reflect the class members on work. All students are expected to adhere to the University's academic integrity standards, and violations of these standards will be handled according with the University's policies. Assignments that include plagiarized content are forbidden. Please familiarize yourself with a good APA, writing practices, standards, and writing styles. See [APA Style Introduction](https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html)
-
-Importantly, reading summaries are exempted from certain APA standards. For example: full citations are not needed for course readings, our readings may be referenced by the authors name. 
-
-### Peer Review Notice
-
-Periodically during the semester, we may conduct peer evaluation of materials, written in conjunction with projects. This means that other people will see and critique your writing. These peer evaluations do not figure into your grade. They are designed to give each class member feedback about the clarity and effectiveness of their work. 
+All students are expected to adhere to the University's academic integrity standards, and violations of these standards will be handled according with the University's policies. Assignments that include plagiarized content, or the use of AI generated content (unless explicitly allowed), are forbidden. 
 
 ## Etiquette and Expectations 
 
@@ -97,108 +88,40 @@ Ohio law and the University’s Student Religious Accommodations for Courses Pol
 ---
 # Tentative Course Schedule 
 
-| `Week/Date`                           | `Tentative Scheduled Activity`                               | `Readings Due`                                                                                  | `Assignments (in class unless specified)`   |
-|:--------------------------------------|:-------------------------------------------------------------|:------------------------------------------------------------------------------------------------|:--------------------------------------------|
-|    WK 1 - Tuesday, Jan 9, 2024        |   Cognitive Science, Cognitive Psychology, and AI            |   Syllabus                                                                                      |   Quiz (on Syllabus)<div><br></div>         |
-|    WK 1 - Thursday, Jan 11, 2024      |   Seminar - AI origins and LLM's today!                      |   Turing 1950, [Munteaunu, 2023](https://ubuntu.com/blog/what-are-large-language-models-llms)   |   Quiz, Seminar Participation               |
-|    WK 2 - Tuesday, Jan 16, 2024       |   LLM Lab - Content Synthesis                                |                                                                                                 |   Quiz, LLM Lab                             |
-|    WK 2 - Thursday, Jan 18, 2024      |   Seminar - Visual Information Processing                    |   Lettvin et al. 1959, Matthis et al. 2022                                                      |   Quiz, Seminar Participation               |
-|    WK 3 - Tuesday, Jan 23, 2024       |   LLM Lab - Content Simplification                           |                                                                                                 |   Quiz, LLM Lab                             |
-|    WK 3 - Thursday, Jan 25, 2024      |   Experiential Learning - Prism Goggles                      |                                                                                                 |   Quiz, EL Participation                    |
-|    WK 4 - Tuesday, Jan 30, 2024       |   Seminar - Decision Making                                  |   Rilling &amp; Sanfey, 2011                                                                    |   Quiz, Seminar Participation               |
-|    WK 4 - Thursday, Feb 1, 2024       |   LLM Lab - Content Generation                               |                                                                                                 |   Quiz                                      |
-|    WK 5 - Tuesday, Feb 6, 2024        |   Experiential Learning - Prisoner's Dilemma                 |                                                                                                 |   Quiz, EL Participation                    |
-|    WK 5 - Thursday, Feb 8, 2024       |   Seminar - AI Ethics                                        |   [Claude's Constitution](https://www.anthropic.com/index/claudes-constitution), Munn 2022      |   Quiz, Seminar Participation               |
-|    WK 6 - Tuesday, Feb 13, 2024       |   LLM Lab - Technical Writing &amp; Formatting               |                                                                                                 |   Quiz, LLM Lab                             |
-|    WK 6 - Thursday, Feb 15, 2024      |   Experiential Learning - Breaking Bing                      |   Roose, 2023                                                                                   |   Quiz, EL Participation                    |
-|    WK 7 - Tuesday, Feb 20, 2024       |  Start Part 2!&nbsp;<div>Seminar - Spatial Navigation</div>  |  Chrastil &amp; Warren 2013, Chrastil &amp; Warren 2015                                         |  Quiz                                       |
-|    WK 7 - Thursday, Feb 22, 2024      |  Experiential Learning - Cognitive Maps                      |                                                                                                 |  Quiz, EL Participation                     |
-|    WK 8 - Tuesday, Feb 27, 2024       |  Writing Workshop (WW) - Lit Search                          |  Literature Search                                                                              |  Quiz, References Section (Partial)         |
-|    WK 8 - Thursday, Feb 29, 2024      |  WW - Introduction&nbsp;                                     |                                                                                                 |  Quiz, Intro Section                        |
-|  WK 9 - Tuesday, Mar 5, 2024          |  Seminar - Insect Navigation                                 |  Wittlinger, Wehner &amp; Wolf 2006, Warren Giraldo &amp; Dickinson 2019                        |  Quiz                                       |
-|    WK 9 - Thursday, Mar 7, 2024       |  WW - Methods                                                |                                                                                                 |  Quiz, Methods                              |
-|    WK 10 - Tuesday, Mar 12, 2024      |   Spring Break                                               |                                                                                                 |                                             |
-|    WK 10 - Thursday, Mar 14, 2024     |   Spring Break                                               |                                                                                                 |                                             |
-|  WK 11 - Tuesday, Mar 19, 2024        |  WW - Results &amp; Stats                                    |                                                                                                 |  Quiz, Results &amp; Stats                  |
-|    WK 11 - Thursday, Mar 21, 2024     |  Seminar - Navigation (Continued)                            |  Warren, Non Euclidean Navigation                                                               |  Quiz, Seminar Participation                |
-|    WK 12 - Tuesday, Mar 26, 2024      |  WW - Discussion                                             |                                                                                                 |  Quiz, Discussion                           |
-|    WK 12 - Thursday, Mar 28, 2024     |                                                              |                                                                                                 |                                             |
-|    WK 13 - Tuesday, Apr 2, 2024       |                                                              |                                                                                                 |                                             |
-|    WK 13 - Thursday, Apr 4, 2024      |                                                              |                                                                                                 |                                             |
-|    WK 14 - Tuesday, Apr 9, 2024       |                                                              |                                                                                                 |                                             |
-|    WK 14 - Thursday, Apr 11, 2024     |                                                              |                                                                                                 |                                             |
-|    WK 15 - Tuesday, Apr 16, 2024      |                                                              |                                                                                                 |                                             |
-|    WK 15 - Thursday, Apr 18, 2024     |                                                              |                                                                                                 |                                             |
-|   Class is over!                      |                                                              |                                                                                                 |                                             |  
+## Test Schedule
 
-
-Here is the table with just the dates column populated:
-
-|  `Week/Date`                     |  `Tentative Scheduled Activity`  |  `Readings Due`  |
-|:---------------------------------|:---------------------------------|:-----------------|
-|  WK 1 - Tuesday, Jan 9, 2024     |                                  |                  |
-|  WK 1 - Thursday, Jan 11, 2024   |                                  |                  |
-|  WK 2 - Tuesday, Jan 16, 2024    |                                  |                  |
-|  WK 2 - Thursday, Jan 18, 2024   |                                  |                  |
-|  WK 3 - Tuesday, Jan 23, 2024    |                                  |                  |
-|  WK 3 - Thursday, Jan 25, 2024   |                                  |                  |
-|  WK 4 - Tuesday, Jan 30, 2024    |                                  |                  |
-|  WK 4 - Thursday, Feb 1, 2024    |                                  |                  |
-|  WK 5 - Tuesday, Feb 6, 2024     |                                  |                  |
-|  WK 5 - Thursday, Feb 8, 2024    |                                  |                  |
-|  WK 6 - Tuesday, Feb 13, 2024    |                                  |                  |
-|  WK 6 - Thursday, Feb 15, 2024   |                                  |                  |
-|  WK 7 - Tuesday, Feb 20, 2024    |                                  |                  |
-|  WK 7 - Thursday, Feb 22, 2024   |                                  |                  |
-|  WK 8 - Tuesday, Feb 27, 2024    |                                  |                  |
-|  WK 8 - Thursday, Feb 29, 2024   |                                  |                  |
-|  WK 9 - Tuesday, Mar 5, 2024     |                                  |                  |
-|  WK 9 - Thursday, Mar 7, 2024    |                                  |                  |
-|  WK 10 - Tuesday, Mar 12, 2024   |  Spring Break                    |                  |
-|  WK 10 - Thursday, Mar 14, 2024  |  Spring Break                    |                  |
-|  WK 11 - Tuesday, Mar 19, 2024   |                                  |                  |
-|  WK 11 - Thursday, Mar 21, 2024  |                                  |                  |
-|  WK 12 - Tuesday, Mar 26, 2024   |                                  |                  |
-|  WK 12 - Thursday, Mar 28, 2024  |                                  |                  |
-|  WK 13 - Tuesday, Apr 2, 2024    |                                  |                  |
-|  WK 13 - Thursday, Apr 4, 2024   |                                  |                  |
-|  WK 14 - Tuesday, Apr 9, 2024    |                                  |                  |
-|  WK 14 - Thursday, Apr 11, 2024  |                                  |                  |
-|  WK 15 - Tuesday, Apr 16, 2024   |                                  |                  |
-|  WK 15 - Thursday, Apr 18, 2024  |                                  |                  |
-|  Class is over!                  |                                  |                  |  
-Here is one way to adapt the 28 lecture outline into your provided course schedule, with tests scheduled on Week 7 and Week 15:
+- Test 1: Tuesday Feb 13
+- Test 2: Tuesday Mar 19 
+- Test 3: Tuesday Apr 15
 
 | Week/Date | Tentative Scheduled Activity | Readings Due |
-|-|-|-|  
-| WK 1 - Tuesday, Jan 9, 2024 | Lecture 1: Introduction and course overview | |
-| WK 1 - Thursday, Jan 11, 2024 | Lecture 2: The neuroanatomy of vision | |
-| WK 2 - Tuesday, Jan 16, 2024 | Lecture 3: Visual impairments | |
-| WK 2 - Thursday, Jan 18, 2024 | Lecture 4: Visual illusions and perception | |
-| WK 3 - Tuesday, Jan 23, 2024 | Lecture 5: The neuroanatomy of audition | |
-| WK 3 - Thursday, Jan 25, 2024 | Lecture 6: Hearing loss and deafness | |
-| WK 4 - Tuesday, Jan 30, 2024 | Lecture 7: Auditory scene analysis and perception | |  
-| WK 4 - Thursday, Feb 1, 2024 | Lecture 8: The neuroanatomy of somatosensation | |
-| WK 5 - Tuesday, Feb 6, 2024 | Lecture 9: Pain and phantom sensations | |
-| WK 5 - Thursday, Feb 8, 2024 | Lecture 10: The neuroanatomy of gustation | |
-| WK 6 - Tuesday, Feb 13, 2024 | Lecture 11: Ageusia, dysgeusia and tasting experiences  | |
-| WK 6 - Thursday, Feb 15, 2024 | Lecture 12: The neuroanatomy of olfaction  | |
-| WK 7 - Tuesday, Feb 20, 2024 | Lecture 13: Anosmia, Memory, and experiences of smell | |
-| WK 7 - Thursday, Feb 22, 2024 | In class review for Test 1  | |
-| WK 8 - Tuesday, Feb 27, 2024 | **Test 1 - Sensation** (in class)  | |
-| WK 8 - Thursday, Feb 29, 2024 | Lecture 14: Multisensory integration - Language, Flavor | |
-| WK 9 - Tuesday, Mar 5, 2024 | Lecture 15: Introduction to perceptual organization | |
-| WK 9 - Thursday, Mar 7, 2024 | Lecture 16: | |
-| WK 10 - Spring Break | No Class | |
-| WK 11 - Tuesday, Mar 19, 2024 | Lecture 17: Perceptual constancies and top-down processing | | 
-| WK 11 - Thursday, Mar 21, 2024 | Lecture 18: Depth and motion perception | |
-| WK 12 - Tuesday, Mar 26, 2024 | Lecture 19: Mind and brain approaches to perception | |
-| WK 12 - Thursday, Mar 28, 2024 | Lecture 20: Ecological approaches to perception | |
-| WK 13 - Tuesday, Apr 2, 2024 | Lecture 21: Predictive processing theory | |
-| WK 13 - Thursday, Apr 4, 2024 | Lecture 22: Phenomenological approaches | |
-| WK 14 - Tuesday, Apr 9, 2024 | Lecture 23: Enactivist and embodied cognition theories | |
-| WK 14 - Thursday, Apr 11, 2024 | Lecture 24: Perception, virtual reality, and technology | |
-| WK 15 - Tuesday, Apr 16, 2024 | In class review Test 2 | |
-| WK 15 - Thursday, Apr 18, 2024 | **Test 2 - Perception** | |
-
-Let me know if you would like me to modify the schedule or content further. I aimed to integrate the lectures logically based on complexity and themes.
+| :--- | :--- | :--- |
+| WK 1 - Tuesday, Jan 9, 2024 | Lecture 1: Introduction and course overview | Syllabus |
+| WK 1 - Thursday, Jan 11, 2024 | Intro to Perception I |  |
+| WK 2 - Tuesday, Jan 16, 2024 | Intro to Perception II |  |
+| WK 2 - Thursday, Jan 18, 2024 |  |  |
+| WK 3 - Tuesday, Jan 23, 2024 | Perceptual Processes I |  |
+| WK 3 - Thursday, Jan 25, 2024 | Processes II |  |
+| WK 4 - Tuesday, Jan 30, 2024 | Neural Processing |  |
+| WK 4 - Thursday, Feb 1, 2024 | Cortical Structure |  |
+| WK 5 - Tuesday, Feb 6, 2024 | Color I |  |
+| WK 5 - Thursday, Feb 8, 2024 | Color II |  |
+| WK 6 - Tuesday, Feb 13, 2024 | Test 1 |  |
+| WK 6 - Thursday, Feb 15, 2024 |  |  |
+| WK 7 - Tuesday, Feb 20, 2024 |  |  |
+| WK 7 - Thursday, Feb 22, 2024 |  |  |
+| WK 8 - Tuesday, Feb 27, 2024 |  |  |
+| WK 8 - Thursday, Feb 29, 2024 |  |  |
+| WK 9 - Tuesday, Mar 5, 2024 |  |  |
+| WK 9 - Thursday, Mar 7, 2024 |  |  |
+| WK 10 - Spring Break | No Class |  |
+| WK 11 - Tuesday, Mar 19, 2024 |  |  |
+| WK 11 - Thursday, Mar 21, 2024 |  |  |
+| WK 12 - Tuesday, Mar 26, 2024 |  |  |
+| WK 12 - Thursday, Mar 28, 2024 |  |  |
+| WK 13 - Tuesday, Apr 2, 2024 |  |  |
+| WK 13 - Thursday, Apr 4, 2024 |  |  |
+| WK 14 - Tuesday, Apr 9, 2024 |  |  |
+| WK 14 - Thursday, Apr 11, 2024 |  |  |
+| WK 15 - Tuesday, Apr 16, 2024 |  |  |
+| WK 15 - Thursday, Apr 18, 2024 |  |  |

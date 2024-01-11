@@ -17,7 +17,7 @@ I am happy to meet virtually as well, either by phone, UC meeting tools, FaceTim
 
 ## Class Meeting Information
 
-We will meet in person in **Baldwin 750** on **Tuesdays** and **Thursdays** from **2:00 p.m. to 3:20 p.m.**
+We will meet in person in **Clifton Court Hall** on **Tuesdays** and **Thursdays** from **11:00 a.m. to 12:20 p.m.**
 
 ## Required Texts
 
@@ -40,20 +40,22 @@ The components of the final paper will be drafted in the class throughout the se
 3. Students will review scientific literature to develop research questions and/or hypotheses.
 4. Students will carry out a research project, including data collection, analyzing the results, and writing APA-style research reports.
 5. Students will be able to communicate research results to a wider audience.
-6. Students will gain experience using Large Language Models (LLM's) to synthesize, critique, and improve writing.
+6. Students will gain experience using Large Language Models (LLM's) to synthesize, critique, and improve writing, and generate ideas.
 
 ## Course Structure
 
-This class is structured into two parts. In the first part of the class, we'll be diving into theoretical topics of Cognitive Science (including Cognitive Psychology), and participating in Large Language Models "Labs" (I'll refer to this as [LLM](https://www.youtube.com/watch?v=zKndCikg3R0) Labs) to grow our expertise using LLMs. 
+This class is structured into three parts. In the first part of the class, we'll be diving into theoretical topics of Cognitive Science (including Cognitive Psychology), and participating in Large Language Models "Labs" (I'll refer to this as [LLM](https://www.youtube.com/watch?v=zKndCikg3R0) Labs) to grow our expertise using LLMs. 
 
 The first part of the course will include 3 different class types:
-1. Seminar: Students will read papers, come to class and discuss the papers. The conversation will be moderated by the instructor(s).
-2. LLM Lab: Students will be given a task to complete in cooperation with a large language model, with direction from the instructor. A worksheet will be filled out through class, and submitted at the end.
-3. Experiential Learning: Students will participate in experiential mini-psychology-experimental exercises. This is meant to turn theory into practice, without the rigorous effort of conducting research.
+1. **Seminar**: Students will read papers, come to class and discuss the papers. The conversation will be moderated by the instructor(s).
+2. **LLM Lab**: Students will be given a task to complete in cooperation with a large language model, with direction from the instructor. A worksheet will be filled out through class, and submitted at the end.
+3. **Experiential Learning**: Students will participate in experiential mini-psychology-experimental exercises. This is meant to turn theory into practice, without the rigorous effort of conducting research.
 
 In the second part of the course, we will conduct an experiment using a gamified online research study investigating research questions in Spatial Cognition (using maps and wayfinding), with the eventual goal of writing an APA style paper on the conducted research.
 
 To support you in this work, we will have a sequence of in-class writing workshops all centered around Spatial Cognition experiment. The writing workshops will prepare you to submit an APA style paper by the end of the semester. This will involve in-class exercises guided by the instructor(s). The writing workshops will cover APA formatting, introductions, methods, results/statistics, discussions, and literature review.
+
+In the third part of this course, you will be *choosing your own adventure,* breaking into small groups to conduct a small research project, build a game using AI, or something else you come up with!
 ## Grades
 
 The plus minus system will be used for all final grades. While absolute rubric scores will influence your final grade, the final letter grade for the course will reflect each individuals participation in the course, as well as their individual growth, engagement, and achievement relative to the learning objectives. 
@@ -101,15 +103,15 @@ Ohio law and the University’s Student Religious Accommodations for Courses Pol
 |    WK 1 - Tuesday, Jan 9, 2024        |   Cognitive Science, Cognitive Psychology, and AI            |   Syllabus                                                                                      |   Quiz (on Syllabus)<div><br></div>         |
 |    WK 1 - Thursday, Jan 11, 2024      |   Seminar - AI origins and LLM's today!                      |   Turing 1950, [Munteaunu, 2023](https://ubuntu.com/blog/what-are-large-language-models-llms)   |   Quiz, Seminar Participation               |
 |    WK 2 - Tuesday, Jan 16, 2024       |   LLM Lab - Content Synthesis                                |                                                                                                 |   Quiz, LLM Lab                             |
-|    WK 2 - Thursday, Jan 18, 2024      |   Seminar - Visual Information Processing                    |   Lettvin et al. 1959, Matthis et al. 2022                                                      |   Quiz, Seminar Participation               |
+|    WK 2 - Thursday, Jan 18, 2024      |   Seminar - Visual Information Processing                    |   Lettvin et al. 1959, Matthis et al. 2022                                                      |   Quiz, Seminar Participation, <br><br>Homework 1 Due               |
 |    WK 3 - Tuesday, Jan 23, 2024       |   LLM Lab - Content Simplification                           |                                                                                                 |   Quiz, LLM Lab                             |
-|    WK 3 - Thursday, Jan 25, 2024      |   Experiential Learning - Prism Goggles                      |                                                                                                 |   Quiz, EL Participation                    |
+|    WK 3 - Thursday, Jan 25, 2024      |   Experiential Learning - Prism Goggles                      |                                                                                                 |   Quiz, EL Participation<br><br>Homework 2 Due                     |
 |    WK 4 - Tuesday, Jan 30, 2024       |   Seminar - Decision Making                                  |   Rilling &amp; Sanfey, 2011                                                                    |   Quiz, Seminar Participation               |
 |    WK 4 - Thursday, Feb 1, 2024       |   LLM Lab - Content Generation                               |                                                                                                 |   Quiz                                      |
-|    WK 5 - Tuesday, Feb 6, 2024        |   Experiential Learning - Prisoner's Dilemma                 |                                                                                                 |   Quiz, EL Participation                    |
+|    WK 5 - Tuesday, Feb 6, 2024        |   Experiential Learning - Prisoner's Dilemma                 |                                                                                                 |   Quiz, EL Participation<br><br>Homework 3 Due                    |
 |    WK 5 - Thursday, Feb 8, 2024       |   Seminar - AI Ethics                                        |   [Claude's Constitution](https://www.anthropic.com/index/claudes-constitution), Munn 2022      |   Quiz, Seminar Participation               |
 |    WK 6 - Tuesday, Feb 13, 2024       |   LLM Lab - Technical Writing &amp; Formatting               |                                                                                                 |   Quiz, LLM Lab                             |
-|    WK 6 - Thursday, Feb 15, 2024      |   Experiential Learning - Breaking Bing                      |   Roose, 2023                                                                                   |   Quiz, EL Participation                    |
+|    WK 6 - Thursday, Feb 15, 2024      |   Experiential Learning - Breaking Bing                      |   Roose, 2023                                                                                   |   Quiz, EL Participation<br><br>Homework 4 Due                    |
 |    WK 7 - Tuesday, Feb 20, 2024       |  Start Part 2!&nbsp;<div>Seminar - Spatial Navigation</div>  |  Chrastil &amp; Warren 2013, Chrastil &amp; Warren 2015                                         |  Quiz                                       |
 |    WK 7 - Thursday, Feb 22, 2024      |  Experiential Learning - Cognitive Maps                      |                                                                                                 |  Quiz, EL Participation                     |
 |    WK 8 - Tuesday, Feb 27, 2024       |  Writing Workshop (WW) - Lit Search                          |  Literature Search                                                                              |  Quiz, References Section (Partial)         |
@@ -121,9 +123,9 @@ Ohio law and the University’s Student Religious Accommodations for Courses Pol
 |  WK 11 - Tuesday, Mar 19, 2024        |  WW - Results &amp; Stats                                    |                                                                                                 |  Quiz, Results &amp; Stats                  |
 |    WK 11 - Thursday, Mar 21, 2024     |  Seminar - Navigation (Continued)                            |  Warren, Non Euclidean Navigation                                                               |  Quiz, Seminar Participation                |
 |    WK 12 - Tuesday, Mar 26, 2024      |  WW - Discussion                                             |                                                                                                 |  Quiz, Discussion                           |
-|    WK 12 - Thursday, Mar 28, 2024     |                                                              |                                                                                                 |                                             |
-|    WK 13 - Tuesday, Apr 2, 2024       |                                                              |                                                                                                 |                                             |
-|    WK 13 - Thursday, Apr 4, 2024      |                                                              |                                                                                                 |                                             |
+|    WK 12 - Thursday, Mar 28, 2024     | Start Part 3!<br>Plan your own Adventure                                                             |                                                                                                 | Quiz                                            |
+|    WK 13 - Tuesday, Apr 2, 2024       | Choose your own adventure                                                             |                                                                                                 | "Quiz"<br><br>Adventure Progress Report...                                             |
+|    WK 13 - Thursday, Apr 4, 2024      | ...                                                             |                                                                                                 | ...                                            |
 |    WK 14 - Tuesday, Apr 9, 2024       |                                                              |                                                                                                 |                                             |
 |    WK 14 - Thursday, Apr 11, 2024     |                                                              |                                                                                                 |                                             |
 |    WK 15 - Tuesday, Apr 16, 2024      |                                                              |                                                                                                 |                                             |
