@@ -1,8 +1,8 @@
 **Course Title:** Cognitive Science (PSYC 3025)
 **Term:** Summer 2024 (May 6 – August 3)
 **Meeting Format:** Asynchronous Online 
-**Instructor:** [Your Name]
-**Contact Information:** [Your Email, Office Hours]
+**Instructor:** Dr. Trenton Wirth
+**Contact Information:** wirthtd@ucmail.uc.edu | Office Hours: By Appointment
 
 **Course Description:**
 A survey of foundational concepts and current controversies in the interdisciplinary field of cognitive science. Topics may include artificial intelligence, language, the links between perception and action, embodied cognition, predictive processing, and related topics. Students will analyze and evaluate theories in cognitive science, and explore how these theories may address contemporary debates.
