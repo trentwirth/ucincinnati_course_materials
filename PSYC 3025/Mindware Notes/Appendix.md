@@ -143,5 +143,107 @@ Most extreme EM's believe that nothing in our commonsense framework of the mind 
 
 Clark: It is extremely hard to make sense of this claim before that future science of the mind is here. Question: can we really drop all of these commonsense ideas? Does their legitimacy depend on finding a place in a scientific theory, or are they valuable by themselves?
 
-# 2024-05-06 -- Appendix II
+# 2024-05-07 -- Appendix II
 
+> Consciousness is hot... but it's unclear what it even is.
+
+### Possible "Targets" For Consciousness:
+- *Simple awakeness*. `The state of being sensitive to our surroundings, able to process info and respond`
+- *Self awareness*. `ID ourselves distinctly`
+- *Availability of verbal reports*, with capacity to access internal states
+- *Availability for the control of intentional action*, indicating an "internal poise"
+- *Qualia*. `redness of an apple, taste of a peach, piercingness of sound`
+
+> The only "special" thing on this list, that we cannot currently explain, is *Qualia*...
+
+## Consciousness-related Research in Cog Neuroscience:
+### Blindsight
+- while subjects are "blind", and experience blindness, they can identify things in their blind field at rates above chance.
+- e.g., detecting a light is flashed in a blind region, or detecting the orientation or a wrist or hand.
+- Explanation: mid brain is processing the information, but the "experience", from higher levels of cognitive activity, is absent
+- Alt Explanation: visual hotspots of that offer a cortical route of information processing
+Regardless: Visual information appears to be processed **without the accompanying experience**
+
+### Dual-Streams Hypothesis (Milner & Goodale)
+- visual awareness is separated from fine motor control
+- this can explain why some humans and monkeys can achieve visually guided action without visual experience
+	- the visual stream is impaired, while the dorsal stream is unaffected
+
+### Neural Oscillations
+- Crick & Koch's work on 40HZ oscillations, & consciousness
+- "neural mechanisms that achieve `binding`", where `binding` means that neural populations represent information - e.g., binding MT motion detectors to v4 hue detector representing a certain face, speaking.
+- Bindings might be possible through "frequency locked neural oscillations in the various neural populations"
+- Synchronized neural populations are then depicted as joining the various neurally represented features into a coherent whole, placed in working memory, which in turn renders the coherent percept - ready to be acted/reported upon...
+> Koch 2012 for a review & story of this account... :D 
+
+### Global Workspace Theory
+- Baars
+- **this is connected to the oscillations & binding!**
+	- GW Theory depicts consciousness as involving the "poising of information for widespread dissemination" -> control of action and response.
+	- Dehaene and Changeux, 2004
+
+### Dynamical Core Hypothesis
+- Tononi & Edelman
+- uses tools and perspectives from complexity theory to argue that consciousness involves the use of re-entrant connectivity to form temporary clusters of neural activity; combining "integration" and "differentiation"
+	- "differentiation" - uniqueness of a state
+	- "integration" - state combination to form "complex wholes"
+- the amount of neural activity satisfying this criterion, then allows us to ***quantify consciousness***
+> I, Trent, think that it's the emergence of these complex wholes that would satisfy the "consciousness" target
+
+## What evidence theory or conjecture tells us about the phenomenon of consciousness?
+
+The answer depends on the definition of "Consciousness"
+
+Ned Block splits consciousness into two parts:
+1. Access-Consciousness (A-Consciousness)
+	- This is the "information is poised to act upon" thing
+2. Phenomenal-Consciousness (P-Consciousness)
+	- the qualitative experience of things (qualia)
+
+Block would claim that the neuroscientific and experimental claims that Clark just reviewed can only touch a-consciousness.
+
+Example: we could build a Dual-Stream Perception robot. This would have a-consciousness, but it would lack p-consciousness. It would be a "dual stream zombie, acting just like us but lacking all 'feeling'"
+
+the David Chalmers distinction: 
+- "easy problem" -> how does the brain recognize objects (other things like this, a-con)
+- "hard problem" -> does that recognition process involve any "what-it's-likeness" (p-consciousness)? Why is a particular "what-it's-likeness" the way that it is?
+
+
+- It's possible that a creature behaves but has no conscious experience ("zombie") or experiences things totally differently ("inversions")
+- Functional behaviors/profiles/systems cannot explain p-con
+- Levine calls this an "explanatory gap"
+
+Chalmers: even if we had perfect correlation between a-con and p-con, we still wouldn't understand *why* the two go together. "Correlation isn't explanation". Maybe science cannot move us further than that.
+### Representationalism, Narrationism
+
+Representationalist: `the mental is exhausted by the represenational`
+- pain = an internal representation: "tissue damage at local X"
+- An interesting an important take: Tye (researcher, 1997) claims that a sensory representation is sufficient.
+> Is sensory activation a sufficient "sensory representation"?
+- First order Representationalism, described above, and there is *higher-order thought theory* 
+	- H-O Thought Theory: A neural state is p-con when it is *itself* the object of a thought... 
+		- To feel a pain requires a thought about the representation of tissue damage
+		- Rosenthal: "a neural state will be conscious if it is accompanied by a thought about the state"
+
+Narrationism: `Consciousness is constructed by "mind-tools" and made available via our immersion in culture and language.`
+Dennett's Moves:
+1. Intentional Stance: systems have beliefs ready for behavior
+2. Multiple Drafts: there are lots of processes working in parallel, quasi-independent (contrast with "central processors")
+3. The Narrative Twist: feeling qualia, is a particular achievement of the human biological brain... "our kind of consciousness"...
+	- an artifact of our immersion in culture and language
+	- our immersion allows us to form a new kind of cognitive organization that allows us to make cognitive objects of our own thought processes and to weave a kind of ongoing narrative that artificially "fixes" the cognitive contents. 
+	- The "fixing" of content isn't really fixed; there are parallel processes ongoing
+	- **it is the serial fixation on ideas that gives us a tendency to believe in qualia**, but "qualia" here really is just the series of judgements made at the top-level
+
+There are other views of consciousness that will for now - be left until later or further reading.
+
+
+## If we explain all parts of a-consciousness, is there really anything left over?
+
+Clark: If a-con perfectly correlates with p-con, why not say they are the same?
+
+The argument against (Kim): the first person perspective cannot be "so easily ignored"
+
+>  `Clark:` Kim—following Block—quotes Louis Armstrong on the appeal of jazz: “If you got to ask, you ain’t never gonna know” (Kim, 1996, p. 180 citing Block, 1980). Such a response should, however, give us pause. In no other scientific or philosophical debate would such a move be acceptable. Why here?
+
+# stopped mid page 269
