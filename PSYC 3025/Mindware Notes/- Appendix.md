@@ -246,4 +246,46 @@ The argument against (Kim): the first person perspective cannot be "so easily ig
 
 >  `Clark:` Kim—following Block—quotes Louis Armstrong on the appeal of jazz: “If you got to ask, you ain’t never gonna know” (Kim, 1996, p. 180 citing Block, 1980). Such a response should, however, give us pause. In no other scientific or philosophical debate would such a move be acceptable. Why here?
 
-# stopped mid page 269
+## The Meta-Hard Problem
+
+> `Clark:` Just as “nothing in physics tells us why there is matter in the first place” (Chalmers, 1997a, p. 20), so nothing will tell us why there is consciousness in the physical world. But that does not stop us seeking correlations of the kind mentioned earlier in the chapter. More radically, Chalmers suggests that we might need to recognize a kind of fundamental “double aspect” to physical states that carry information, with the result that where there is information there is always some degree of phenomenal content (op. cit., pp. 26–28).
+
+The "Ant" argument -> humans might have no chance at understanding consciousness, no more than we'd expect an Ant to understand their own existence/experience.
+
+Clark finds this argument unsatisfying, I kind of do too. Language, culture, and technology extend our cognition.
+
+>`Clark:`
+>
+>If we allow (as we surely should) that some representational states have no phenomenological dimension, then why suppose it is the representational content and not the missing “extra ingredient” that is making the other states phenomeno-logically conscious? even if representational content is part of the story, it does not look like the whole thing. 
+>
+> Second-order representationalism (a.k.a. “higher-order thought theory”) may look like a better bet here. For the idea here is to identify the “missing ingredient” as an extra layer of thought. 
+
+Interesting idea; consciousness as a sense of internal mental activity... what if consciousness is sensation of neural activity? 
+
+```
+Is there a “hard-problem” of consciousness, or isn’t there? Is there something special about phenomenal consciousness that places it outside the reach of current scientific approaches (as Chalmers and others believe), or is it just a matter of explaining a pattern of responsiveness and report (as Dennett and others suggest)? 
+```
+
+The "Meta-hard problem" of consciousness is deciding between the perspectives of Chalmers and Dennett. 
+
+## Psychologizing Consciousness:
+
+Price: It might take time (apparently like in physics) for the current, seemingly unsatisfying explanations for consciousness to become accepted, satisfying explanations. *Our intuitive understanding is a poor guide to progress.*
+
+`Explanatory Gap`: consciousness refers to the challenge of explaining how physical events give rise to conscious phenomenal experiences.
+
+## Co-pilot Summary of Chalmers v. Dennett:
+
+Let’s briefly explore the contrasting views of David Chalmers and Daniel Dennett on consciousness:
+
+1. **David Chalmers**:
+    - **Hard Problem of Consciousness**: Chalmers famously introduced the concept of the “hard problem” of consciousness. He argues that there is an intrinsic, subjective aspect to consciousness that cannot be fully explained by physical processes alone. This “hard problem” pertains to why and how certain physical processes give rise to conscious experience.
+    - **Qualia and Phenomenal Consciousness**: Chalmers emphasizes the existence of **qualia**, which are the raw, ineffable qualities of our subjective experiences (e.g., the redness of red, the taste of chocolate). He believes that these qualia cannot be reduced to physical explanations.
+    - **Dualism and Panpsychism**: While not a dualist himself, Chalmers entertains the possibility of panpsychism—a view that consciousness is a fundamental property of the universe, even at the level of particles.
+
+1. **Daniel Dennett**:
+    - **Consciousness as an Illusion**: Dennett takes a more reductionist stance. He argues that consciousness is an “illusion” created by the brain’s information-processing mechanisms. According to him, there is no hard problem; instead, consciousness can be explained through cognitive processes.
+    - **Multiple Drafts Model**: Dennett proposes the “multiple drafts” model, where consciousness emerges from the brain’s ongoing processing of information. Our experiences are like drafts of a story, constantly revised and updated.
+    - **Eliminativism**: Dennett is critical of qualia and argues that they are unnecessary for explaining consciousness. He suggests that we should eliminate the concept of qualia altogether.
+
+In summary, Chalmers emphasizes the mystery of consciousness and the hard problem, while Dennett seeks to demystify it by explaining it as an emergent product of cognitive processes. Their differing perspectives continue to fuel debates in the philosophy of mind and cognitive science
