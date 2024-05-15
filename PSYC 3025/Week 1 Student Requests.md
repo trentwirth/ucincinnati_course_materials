@@ -1,0 +1,5 @@
+- Zoom conversation for discussion
+- connect class content back to psychology
+- Question: how do I take notes?
+- short answer Q's > discussion boards
+- group presentations to help with understanding course content/asking questions
