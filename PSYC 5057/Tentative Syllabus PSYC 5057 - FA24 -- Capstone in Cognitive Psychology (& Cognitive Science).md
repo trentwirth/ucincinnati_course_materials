@@ -16,12 +16,44 @@ For scheduling in person meetings, or for quick questions by email, please email
 ## Class Meeting Information
 
 We will meet in person in **Clifton Court Hall room 3105** on **Wednesdays** and **Fridays** from **11:00 a.m. to 12:20 p.m.**
+# Tentative Course Schedule 
 
-## Required Texts
+| `Week/Date`                     | `Tentative Scheduled Activity`                           | `Readings Due`                                                                                        | `Assignments`                            |
+| :------------------------------ | :------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :--------------------------------------- |
+| WK 1 - Wednesday, Aug 28, 2024  | Cognitive Science, Cognitive Psychology, and AI          | Syllabus                                                                                              |                                          |
+| WK 1 - Friday, Aug 30, 2024     | LLM Lab - Content Synthesis                              |                                                                                                       | LLM Lab                                  |
+| WK 2 - Wednesday, Sep 4, 2024   | Seminar - AI origins and LLM’s today                     | Turing 1950, [Munteaunu, 2023](https://ubuntu.com/blog/what-are-large-language-models-llms)           | Seminar Reading                          |
+| WK 2 - Friday, Sep 6, 2024      | LLM Lab - Content Simplification                         | Perceptual-Motor Adaptation                                                                           | LLM Lab                                  |
+| WK 3 - Wednesday, Sep 11, 2024  | Seminar - Visual Information Processing                  | Lettvin et al. 1959, Matthis et al. 2022                                                              | Seminar Reading                          |
+| WK 3 - Friday, Sep 13, 2024     | Experiential Learning - Prism Goggles                    |                                                                                                       |                                          |
+| WK 4 - Wednesday, Sep 18, 2024  | LLM Lab - Content Generation                             |                                                                                                       | LLM Lab                                  |
+| WK 4 - Friday, Sep 20, 2024     | Seminar - AI Ethics                                      | [Claude's Constitution](https://www.anthropic.com/index/claudes-constitution), Munn 2022, Roose, 2023 | LLM Lab, Seminar Reading                 |
+| WK 5 - Wednesday, Sep 25, 2024  | LLM Lab - Technical Writing &amp; Formatting             | Navigation Paper from last Semester                                                                   | LLM Lab                                  |
+| WK 5 - Friday, Sep 27, 2024     | **Start Part 2!**<div>Seminar - Spatial Navigation</div> | Chrastil &amp; Warren 2013, Chrastil &amp; Warren 2015                                                | Seminar Reading                          |
+| WK 6 - Wednesday, Oct 2, 2024   | Experiential Learning - Cognitive Maps                   |                                                                                                       |                                          |
+| WK 6 - Friday, Oct 4, 2024      | Seminar - Insect Navigation                              | Wittlinger, Wehner &amp; Wolf 2006, Warren Giraldo &amp; Dickinson 2019                               | Seminar Reading                          |
+| WK 7 - Wednesday, Oct 9, 2024   | Seminar - Navigation (Continued)                         | Warren, Non Euclidean Navigation                                                                      | Seminar Reading                          |
+| WK 7 - Friday, Oct 11, 2024     | NO CLASS READING DAY                                     |                                                                                                       |                                          |
+| WK 8 - Wednesday, Oct 16, 2024  | Writing Workshop (WW) - Lit Search                       |                                                                                                       | References Section                       |
+| WK 8 - Friday, Oct 18, 2024     | WW - Introduction&nbsp;                                  |                                                                                                       | Intro Section                            |
+| WK 9 - Wednesday, Oct 23, 2024  | WW - Methods                                             |                                                                                                       | Methods                                  |
+| WK 9 - Friday, Oct 25, 2024     | Stats Refresher: T-Tests & ANOVA                         |                                                                                                       | Stats Lab (Counts Towards LLM Lab)       |
+| WK 10 - Wednesday, Oct 30, 2024 | Stats Refresher: Regression                              |                                                                                                       | Stats Lab                                |
+| WK 10 - Friday, Nov 1, 2024     | WW - Results &amp; Stats                                 |                                                                                                       | Results &amp; Stats                      |
+| WK 11 - Wednesday, Nov 6, 2024  | WW - Discussion                                          |                                                                                                       | Discussion                               |
+| WK 11 - Friday, Nov 8, 2024     | Start Part 3!<br>Final Project                           |                                                                                                       |                                          |
+| WK 12 - Wednesday, Nov 13, 2024 | Work on Final Project (WoFP)                             |                                                                                                       |                                          |
+| WK 12 - Friday, Nov 15, 2024    | WoFP                                                     |                                                                                                       | Final Project Progress Report            |
+| WK 13 - Wednesday, Nov 20, 2024 | WoFP                                                     |                                                                                                       |                                          |
+| WK 13 - Friday, Nov 22, 2024    | WoFP                                                     |                                                                                                       | Final Project Progress Report            |
+| WK 14 - Wednesday, Nov 27, 2024 | WoFP                                                     |                                                                                                       |                                          |
+| WK 14 - Friday, Nov 29, 2024    | NO CLASS THANKSGIVING                                    |                                                                                                       |                                          |
+| WK 15 - Wednesday, Dec 4, 2024  | Flex Day (Either WoFP or Presentations)                  |                                                                                                       |                                          |
+| WK 15 - Friday, Dec 6, 2024     | Final Project Presentations                              |                                                                                                       | Final Project, Peer Review Documentation |
+| Class is over! <br>No Finals    |                                                          |                                                                                                       |                                          |
 
-All required reading materials, lecture notes, podcasts, and related materials will be distributed via CANVAS PDFs, MP3s, or links to outside contacts, such as YouTube, etc.
-
-## Course Overview 
+___
+# Course Overview 
 
 This course surveys the disciplines of *Cognitive Science*, including Cognitive Psychology, Philosophy, and Artificial Intelligence. It includes topics relating to its historical roots and statistical practices, information processing theory and *artificial intelligence* (from here on out, I'll refer to this as "**AI**"). 
 
@@ -39,6 +71,9 @@ The components of the final paper will be drafted in the class throughout the se
 4. Students will carry out a research project, including data collection, analyzing the results, and writing APA-style research reports.
 5. Students will be able to communicate research results to a wider audience.
 6. Students will gain experience using Large Language Models (LLM's) to synthesize, critique, and improve writing, and generate ideas.
+## Required Texts
+
+All required reading materials, lecture notes, podcasts, and related materials will be distributed via CANVAS PDFs, MP3s, or links to outside contacts, such as YouTube, etc.
 
 ## Course Structure
 
@@ -110,40 +145,4 @@ The University of Cincinnati does not currently have an official policy on child
 Ohio law and the University’s Student Religious Accommodations for Courses Policy 1.3.7 permits a student, upon request, to be absent for reasons of faith or religious or spiritual belief system or participate in organized activities conducted under the auspices of a religious denomination, church, or other religious or spiritual organization and/or to receive alternative accommodations with regard to examinations and other course requirements due to an absence permitted for the above-described reasons. Not later than fourteen days after the first day of instruction in the course, a student should provide the instructor with written notice of the specific dates for which the student requests alternative accommodations.For additional information about this policy, please contact the Executive Director of the Office of Equal Opportunity and Access at (513) 556-5503 or oeohelp@UCMAIL.UC.EDU.
 
 ---
-# Tentative Course Schedule 
-
-| `Week/Date`                     | `Tentative Scheduled Activity`                           | `Readings Due`                                                                                        | `Assignments`                            |
-| :------------------------------ | :------------------------------------------------------- | :---------------------------------------------------------------------------------------------------- | :--------------------------------------- |
-| WK 1 - Wednesday, Aug 28, 2024  | Cognitive Science, Cognitive Psychology, and AI          | Syllabus                                                                                              |                                          |
-| WK 1 - Friday, Aug 30, 2024     | LLM Lab - Content Synthesis                              |                                                                                                       | LLM Lab                                  |
-| WK 2 - Wednesday, Sep 4, 2024   | Seminar - AI origins and LLM’s today                     | Turing 1950, [Munteaunu, 2023](https://ubuntu.com/blog/what-are-large-language-models-llms)           | Seminar Reading                          |
-| WK 2 - Friday, Sep 6, 2024      | LLM Lab - Content Simplification                         | Perceptual-Motor Adaptation                                                                           | LLM Lab                                  |
-| WK 3 - Wednesday, Sep 11, 2024  | Seminar - Visual Information Processing                  | Lettvin et al. 1959, Matthis et al. 2022                                                              | Seminar Reading                          |
-| WK 3 - Friday, Sep 13, 2024     | Experiential Learning - Prism Goggles                    |                                                                                                       |                                          |
-| WK 4 - Wednesday, Sep 18, 2024  | LLM Lab - Content Generation                             |                                                                                                       | LLM Lab                                  |
-| WK 4 - Friday, Sep 20, 2024     | Seminar - AI Ethics                                      | [Claude's Constitution](https://www.anthropic.com/index/claudes-constitution), Munn 2022, Roose, 2023 | LLM Lab, Seminar Reading                 |
-| WK 5 - Wednesday, Sep 25, 2024  | LLM Lab - Technical Writing &amp; Formatting             | Navigation Paper from last Semester                                                                   | LLM Lab                                  |
-| WK 5 - Friday, Sep 27, 2024     | **Start Part 2!**<div>Seminar - Spatial Navigation</div> | Chrastil &amp; Warren 2013, Chrastil &amp; Warren 2015                                                | Seminar Reading                          |
-| WK 6 - Wednesday, Oct 2, 2024   | Experiential Learning - Cognitive Maps                   |                                                                                                       |                                          |
-| WK 6 - Friday, Oct 4, 2024      | Seminar - Insect Navigation                              | Wittlinger, Wehner &amp; Wolf 2006, Warren Giraldo &amp; Dickinson 2019                               | Seminar Reading                          |
-| WK 7 - Wednesday, Oct 9, 2024   | Seminar - Navigation (Continued)                         | Warren, Non Euclidean Navigation                                                                      | Seminar Reading                          |
-| WK 7 - Friday, Oct 11, 2024     | NO CLASS READING DAY                                     |                                                                                                       |                                          |
-| WK 8 - Wednesday, Oct 16, 2024  | Writing Workshop (WW) - Lit Search                       |                                                                                                       | References Section                       |
-| WK 8 - Friday, Oct 18, 2024     | WW - Introduction&nbsp;                                  |                                                                                                       | Intro Section                            |
-| WK 9 - Wednesday, Oct 23, 2024  | WW - Methods                                             |                                                                                                       | Methods                                  |
-| WK 9 - Friday, Oct 25, 2024     | Stats Refresher: T-Tests & ANOVA                         |                                                                                                       | Stats Lab (Counts Towards LLM Lab)       |
-| WK 10 - Wednesday, Oct 30, 2024 | Stats Refresher: Regression                              |                                                                                                       | Stats Lab                                |
-| WK 10 - Friday, Nov 1, 2024     | WW - Results &amp; Stats                                 |                                                                                                       | Results &amp; Stats                      |
-| WK 11 - Wednesday, Nov 6, 2024  | WW - Discussion                                          |                                                                                                       | Discussion                               |
-| WK 11 - Friday, Nov 8, 2024     | Start Part 3!<br>Final Project                           |                                                                                                       |                                          |
-| WK 12 - Wednesday, Nov 13, 2024 | Work on Final Project (WoFP)                             |                                                                                                       |                                          |
-| WK 12 - Friday, Nov 15, 2024    | WoFP                                                     |                                                                                                       | Final Project Progress Report            |
-| WK 13 - Wednesday, Nov 20, 2024 | WoFP                                                     |                                                                                                       |                                          |
-| WK 13 - Friday, Nov 22, 2024    | WoFP                                                     |                                                                                                       | Final Project Progress Report            |
-| WK 14 - Wednesday, Nov 27, 2024 | WoFP                                                     |                                                                                                       |                                          |
-| WK 14 - Friday, Nov 29, 2024    | NO CLASS THANKSGIVING                                    |                                                                                                       |                                          |
-| WK 15 - Wednesday, Dec 4, 2024  | Flex Day (Either WoFP or Presentations)                  |                                                                                                       |                                          |
-| WK 15 - Friday, Dec 6, 2024     | Final Project Presentations                              |                                                                                                       | Final Project, Peer Review Documentation |
-| Class is over! <br>No Finals    |                                                          |                                                                                                       |                                          |
-
 
