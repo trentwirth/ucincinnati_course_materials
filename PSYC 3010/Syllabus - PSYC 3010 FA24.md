@@ -26,40 +26,39 @@ I may also supply you with things like youtube videos, and other resources as ne
 
 ## Course Schedule (Subject to Change)
 
-| Day            | Date         | Topic                                              | Learning Path | Quiz/Coding Assignment |
-| -------------- | ------------ | -------------------------------------------------- | ------------- | ---------------------- |
-| Week 1, Day 1  | August 28    | Introduction: Course Overview                      | Step 1        | -                      |
-| Week 1, Day 2  | August 30    | Programming Basics & Environments                  | Step 2        | -                      |
-| Week 2, Day 1  | September 4  | Python Basics: Variables and Expressions           | Step 3        | -                      |
-| Week 2, Day 2  | September 6  | Variables and Expressions Exercise                 | Step 4        | CA                     |
-| Week 3, Day 1  | September 11 | Control Structures: Making Decisions               | Step 5        | -                      |
-| Week 3, Day 2  | September 13 | Problem-solving with Control Structures            | Step 6        | Q Weeks 1-2            |
-| Week 4, Day 1  | September 18 | Functions: Breaking Down the Code                  | Step 7        | -                      |
-| Week 4, Day 2  | September 20 | Working with Functions                             | Step 8        | CA                     |
-| Week 5, Day 1  | September 25 | OOP: Introduction to Classes and Objects           | Step 9        | -                      |
-| Week 5, Day 2  | September 27 | Interactive OOP Exercises                          | Step 10       | Q Weeks 3-4            |
-| Week 6, Day 1  | October 2    | Modular Programming: Modular Code and File I/O     | Step 11       | -                      |
-| Week 6, Day 2  | October 4    | Modules and File Operations                        | Step 12       | CA                     |
-| Week 7, Day 1  | October 9    | Debugging: Identifying and Fixing Bugs             | Step 13       | -                      |
-| Week 7, Day 2  | October 11   | NO CLASS Reading Day                               | -             | -                      |
-| Week 8, Day 1  | October 16   | Data Structures: Lists, Tuples, Dictionaries, Sets | Step 14       | -                      |
-| Week 8, Day 2  | October 18   | Data Structures Manipulation                       | Step 15       | Q Weeks 5-7            |
-| Week 9, Day 1  | October 23   | **Written Assessment**                             | -             | -                      |
-| Week 9, Day 2  | October 25   | Some Python Design Patterns                        | Step 16       | -                      |
-| Week 10, Day 1 | October 30   | Experimental Design & Programming                  | Step 17       | -                      |
-| Week 10, Day 2 | November 1   | Interfacing with Hardware                          | Step 18       | CA                     |
-| Week 11, Day 1 | November 6   | Advanced Data Collection: Reading from Devices     | Step 19       | -                      |
-| Week 11, Day 2 | November 8   | Data Exploration: Data Preprocessing               | Step 20       | Q Weeks 8-10           |
-| Week 12, Day 1 | November 13  | Using pandas for Data Manipulation                 | Step 21       | -                      |
-| Week 12, Day 2 | November 15  | Data Visualization: Basic Principles               | Step 22       | -                      |
-| Week 13, Day 1 | November 20  | Creating Basic Charts and Plots                    | Step 23       | CA                     |
-| Week 13, Day 2 | November 22  | Advanced Data Visualization                        | Step 24       | -                      |
-| Week 14, Day 1 | November 27  | **Written Assessment**                             | -             | -                      |
-| Week 14, Day 2 | November 29  | NO CLASS: Thanksgiving                             | -             | Q Weeks 11-13          |
-| Week 15, Day 1 | December 4   | Project: Planning and Proposal                     | Wander        | -                      |
-| Week 15, Day 2 | December 6   | Project Development                                | Wander        | -                      |
-| Week 16, Day 1 | December 11  | Project: Development                               | Wander        | -                      |
-| Week 16, Day 2 | December 13  | **Project: Presentations**                         | Wander        | -                      |
+| Day            | Date         | Topic                                                       | Learning Path | Quiz/Coding Assignment |
+| -------------- | ------------ | ----------------------------------------------------------- | ------------- | ---------------------- |
+| Week 1, Day 1  | August 28    | Introduction: Course Overview                               | Step 1        | -                      |
+| Week 1, Day 2  | August 30    | Programming Basics & Environments                           | Step 2        | -                      |
+| Week 2, Day 1  | September 4  | Python Basics: Variables and Expressions                    | Step 3        | -                      |
+| Week 2, Day 2  | September 6  | Variables and Expressions Exercise                          | Step 4        | CA                     |
+| Week 3, Day 1  | September 11 | Control Structures: Making Decisions                        | Step 5        | -                      |
+| Week 3, Day 2  | September 13 | Problem-solving with Control Structures                     | Step 6        | Q Weeks 1-2            |
+| Week 4, Day 1  | September 18 | Functions: Breaking Down the Code                           | Step 7        | -                      |
+| Week 4, Day 2  | September 20 | Working with Functions                                      | Step 8        | CA                     |
+| Week 5, Day 1  | September 25 | Finding and Fixing Bugs                                     | Step 9        | -                      |
+| Week 5, Day 2  | September 27 | OOP: Introduction to Classes and Objects                    | Step 10       | Q Weeks 3-4            |
+| Week 6, Day 1  | October 2    | More OOP                                                    | Step 11       | -                      |
+| Week 6, Day 2  | October 4    | Modular Programming: Modular Code and File I/O              | Step 12       | CA                     |
+| Week 7, Day 1  | October 9    | Modules and File Operations                                 | Step 13       | -                      |
+| Week 7, Day 2  | October 11   | NO CLASS Reading Day                                        | -             | -                      |
+| Week 8, Day 1  | October 16   | Data Structures: Lists, Tuples, Dictionaries, Sets          | Step 14       | -                      |
+| Week 8, Day 2  | October 18   | Data Structures Manipulation                                | Step 15       | Q Weeks 5-7            |
+| Week 9, Day 1  | October 23   | Special: UC Mentoring Session - AI Tools and Best Practices | -             | -                      |
+| Week 9, Day 2  | October 25   | **Written Assessment**                                      | -             | -                      |
+| Week 10, Day 1 | October 30   | Some Python Design Patterns                                 | Step 16       | -                      |
+| Week 10, Day 2 | November 1   | Experimental Design & Programming                           | Step 17       | CA                     |
+| Week 11, Day 1 | November 6   | Interfacing with Hardware                                   | Step 18       | -                      |
+| Week 11, Day 2 | November 8   | Advanced Data Collection: Reading from Devices              | Step 19       | Q Weeks 8-10           |
+| Week 12, Day 1 | November 13  | Data Exploration: Data Preprocessing                        | Step 20       | -                      |
+| Week 12, Day 2 | November 15  | Using pandas for Data Manipulation                          | Step 21       | -                      |
+| Week 13, Day 1 | November 20  | Data Visualization: Basic Principles                        | Step 22       | CA                     |
+| Week 13, Day 2 | November 22  | Creating Basic Charts and Plots                             | Step 23       | -                      |
+| Week 14, Day 1 | November 27  | Advanced Data Visualization                                 | Step 24       | Q Weeks 11-13          |
+| Week 14, Day 2 | November 29  | NO CLASS: Thanksgiving                                      | -             | -                      |
+| Week 15, Day 1 | December 4   | **Written Assessment**                                      | -             | -                      |
+| Week 15, Day 2 | December 6   | Data Visualization Fun                                      | -             | -                      |
+
 
 ## Course Overview
 
@@ -114,6 +113,7 @@ Your grade is distributed across the following categories:
 *Written Assessments*: This will be an in-person assessment that we will do twice this semester. You will in either a word or a google doc, write code without any assistance from the internet to - the best of your ability - sketch out how you'd solve a specific problem, or problem set, using what you've learned in the class. I will not be grading your syntax, but rather your problem solving ability, application of knowledge, and creative thinking. *Note*: This is how Google's coding interviews work (I've done one :) )
 
 *Final Project*: In the last two weeks of class, you will form groups and attempt to collect and visualize some data using an experimental tool of your choice (see recommended tools section below). You will plan, develop, and present your findings to the class. Group sizes should be 3-6 people per group. *Note*: The goal of this project is not to complete something, but rather try to do something and learn in the process.
+
 ##### Experimental Tool Options
 
 Here are 3 experimental options for the project, driven by different tools and goals - though I am open to hear any suggestions for project alternatives. My three recommended tools/systems:
